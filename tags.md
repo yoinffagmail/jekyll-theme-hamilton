@@ -1,6 +1,4 @@
 ---
-layout: archive-taxonomies
-type: tags
-title: Tags
-permalink: /tags/
+... which is shown in the screenshot below:
+![My helpful screenshot](/screenshot.png)
 ---
