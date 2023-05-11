@@ -7,4 +7,9 @@ permalink: /about/
 ... which is shown in the screenshot below:
 ![My helpful screenshot](/assets/CSC/x3.jpg)
 
-Another DDminimal style of Jekyll theme for writers.
+
+# Welcome
+
+**Hello world**, this is my first Jekyll blog post.
+
+I hope you like it!Another minimal style of Jekyll theme for writers.
