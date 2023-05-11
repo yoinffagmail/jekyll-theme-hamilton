@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ... which is shown in the screenshot below:
-![My helpful screenshot](/assets/CSC/x3.jpg)
+![My helpful screenshot](/assets/css/x3.jpg)
 
 
 # Welcome
