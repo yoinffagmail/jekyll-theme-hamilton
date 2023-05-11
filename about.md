@@ -7,6 +7,9 @@ permalink: /about/
 ... which is shown in the screenshot below i love:
 ![My helpful screenshot](/assets/css/x3.jpg)
 
+... which is shown in the screenshot below i love:
+![My helpful screenshot](/assets/css/x3.jpg)
+
 
 # Welcome
 
