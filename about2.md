@@ -12,8 +12,8 @@ I hope you like it!Another minimal style of Jekyll theme for writers.
 
 [imgesss](/image.html)
 
-<img class="pic1" src="/assets/css/1.png"/>
+<img class="pic1" src="/assets/css/x3.jpg"/>
 
 <div align="center">
-<img src="/assets/css/1.png" />
+<img src="/assets/css/x3.jpg"/>
 </div>
