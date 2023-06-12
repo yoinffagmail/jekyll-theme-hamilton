@@ -10,4 +10,4 @@ permalink: /about2/
 
 I hope you like it!Another minimal style of Jekyll theme for writers.
 
-[imge](/image.html)
+[imgess](/image.html)
