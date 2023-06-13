@@ -12,9 +12,9 @@ I hope you like it!Another minimal style of Jekyll theme for writers.
 
 [imgesss](/image.html)
 
-![My helpful screenshot](/assets/css/x3.jpg)
+![My helpful screenshot](/logo.png)
 
-<img class="pic1" src="/assets/css/x3.jpg"/>
+<img class="pic1" src="/logo.png" />
 
 <div align="center">
 <img src="/assets/css/x3.jpg"/>
