@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
