@@ -5,7 +5,7 @@ categories: misc
 ---
 [yyyu](../image.html)
 
-![My helpful screenshot](logo.png)
+![My helpful screenshot](../logo.png)
 
 <img class="pic1" src="../scripts/2.png">
 
