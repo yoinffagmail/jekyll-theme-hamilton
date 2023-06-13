@@ -14,7 +14,7 @@ I hope you like it!Another minimal style of Jekyll theme for writers.
 
 ![My helpful screenshot](logo.png)
 
-<img class="pic1" src="./logo.png">
+<img class="pic1" src="scripts/2.png">
 
 <div align="center">
 <img src="./assets/css/x3.jpg">
