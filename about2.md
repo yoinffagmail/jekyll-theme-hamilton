@@ -10,7 +10,7 @@ permalink: /about2/
 
 I hope you like it!Another minimal style of Jekyll theme for writers.
 
-[imgesss](/image.html)
+[imgessuuu](/image.html)
 
 ![My helpful screenshot](logo.png)
 
